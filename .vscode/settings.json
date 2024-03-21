@@ -1,0 +1,5 @@
+{
+    "containerApps.deployWorkspaceProject.containerAppResourceGroupName": "projectloafsprong",
+    "containerApps.deployWorkspaceProject.containerAppName": "projectloafsprong",
+    "containerApps.deployWorkspaceProject.containerRegistryName": "projectloafsprong05e3e1"
+}
