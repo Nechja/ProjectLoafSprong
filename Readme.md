@@ -1,11 +1,11 @@
 
 # Welcome to LoafSprong!
 
-This is the home of the notorious P-6, the aircraft that never was but always should've been. Here at LoafSprong, we're dedicated to the singular, noble cause of hosting an image of this majestic flying machine. Why? Because we bring the glory of FoafSprong!
+This is the home of the notorious P-6, the aircraft that never was but always should've been. Here at LoafSprong, we're dedicated to the singular, noble cause of hosting an image of this majestic flying machine. Why? Because we bring **the glory of LoafSprong**!
 
 ## What's This All About?
 
-The LoafSprong container is an under-engineered, questionably available, and probs pretty scalable solution for hosting a single image. It's a testament to nothingness, and a great way to learn some stuff I'm sure is VERY Important.
+The LoafSprong container is an **under**-engineered, questionably available, and probs pretty scalable solution for hosting a single image. It's a testament to nothingness, and a ~~great way to learn some stuff I'm sure is VERY Important.~~
 
 ## How to Use This Container
 1. Ask yourself why
@@ -37,7 +37,6 @@ No actual P-6 aircraft were harmed in the making of this container.
 ## Contribute
 
 Feel like adding to the absurdity? 
-[!WARNING]
-Don't.
+**Don't.**
 
-Remember, in the world of LoafSprong, the sky's the limit!
+<sub>Remember, in the world of LoafSprong, the ground is the limit!</sub>
