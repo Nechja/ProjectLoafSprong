@@ -5,7 +5,7 @@ This is the home P-6E image hosting. Here at LoafSprong, we're dedicated to the 
 
 ## What's This All About?
 
-The LoafSprong container is an **under**-engineered, questionably available, and probs pretty scalable solution for hosting a single image. It's a testament to nothingness, and a ~~great way to learn some stuff I'm sure is VERY Important.~~
+The LoafSprong container is an **under**-engineered, questionably available, and probs pretty scalable solution for hosting a single image. This is a container I use for testing things, but I felt like being very silly with it for some reason.  
 
 ## How to Use This Container
 1. Ask yourself why
