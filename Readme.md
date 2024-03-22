@@ -1,7 +1,7 @@
 
 # Welcome to LoafSprong!
 
-This is the home of the notorious P-6, the aircraft that never was but always should've been. Here at LoafSprong, we're dedicated to the singular, noble cause of hosting an image of this majestic flying machine. Why? Because we bring **the glory of LoafSprong**!
+This is the home P-6E image hosting. Here at LoafSprong, we're dedicated to the singular, noble cause of hosting an image of this majestic flying machine. Why? Because we bring **the glory of LoafSprong**!
 
 ## What's This All About?
 
